@@ -16,4 +16,5 @@ public class Card {
         this.suit = suit;
     }
 
+
 }
