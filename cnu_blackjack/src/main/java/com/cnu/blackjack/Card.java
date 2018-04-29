@@ -14,6 +14,6 @@ public class Card {
         }
         this.rank = rank;
         this.suit = suit;
-    }
-
+    } // DoYeonKim
+       
 }
